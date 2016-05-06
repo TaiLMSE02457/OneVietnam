@@ -1,0 +1,4 @@
+D:\Study\Capstone Project\MyVietnam\Unities\bin\Debug\Unities.dll
+D:\Study\Capstone Project\MyVietnam\Unities\bin\Debug\Unities.pdb
+D:\Study\Capstone Project\MyVietnam\Unities\obj\Debug\Unities.dll
+D:\Study\Capstone Project\MyVietnam\Unities\obj\Debug\Unities.pdb

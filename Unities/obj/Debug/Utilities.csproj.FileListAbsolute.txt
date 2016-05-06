@@ -1,0 +1,12 @@
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\bin\Debug\Unities.dll
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\bin\Debug\Unities.pdb
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\bin\Debug\Entities.dll
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\bin\Debug\MongoDB.Bson.dll
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\bin\Debug\MongoDB.Driver.Core.dll
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\bin\Debug\MongoDB.Driver.dll
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\bin\Debug\Entities.pdb
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\bin\Debug\MongoDB.Bson.xml
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\bin\Debug\MongoDB.Driver.xml
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\obj\Debug\Unities.dll
+D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\obj\Debug\Unities.pdb
